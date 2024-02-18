@@ -1,5 +1,5 @@
 {
-  "name": "svelte-editorjs2",
+  "name": "@biggiepete/svelte-editorjs",
   "version": "0.2.1",
   "description": "An EditorJS wrapper for Svelte, built for svelte V4",
   "main": "dist/cjs/index.js",
