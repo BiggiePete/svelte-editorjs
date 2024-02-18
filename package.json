@@ -1,11 +1,11 @@
 {
-  "name": "svelte-editorjs",
+  "name": "svelte-editorjs2",
   "version": "0.2.1",
   "description": "An EditorJS wrapper for Svelte, built for svelte V4",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
-  "author": "Pablo Berganza <pablo@berganza.dev>, Peter Cross <peter.cross222@gmail.com>",
+  "author": "Peter Cross <peter.cross222@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/BiggiePete/svelte-editorjs",
   "repository": "github:BiggiePete/svelte-editorjs",
@@ -26,7 +26,7 @@
   },
   "peerDependencies": {
     "@editorjs/editorjs": "^2.19.3",
-    "svelte": "3.31.0"
+    "svelte": "^4.0.5"
   },
   "files": [
     "dist"
